@@ -1,0 +1,17 @@
+{
+  "name": "dragonx-120-pattern-api",
+  "version": "1.2.0",
+  "private": true,
+  "description": "WinGo Live Prediction API with Browser Headers & 120 Pattern Analysis",
+  "main": "lib/dragonx.js",
+  "scripts": {
+    "start": "node local-server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
